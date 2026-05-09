@@ -1,4 +1,11 @@
 [
+    {
+    "rm": "100001",
+    "nome": "Gabriel Lúcio",
+    "curso": "DS",
+    "modulo": "1",
+    "email": "gabriel.lucio@email.com"
+  },
   {
     "rm": "100001",
     "nome": "Lucas Ferreira",
